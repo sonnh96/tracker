@@ -1,0 +1,26 @@
+{
+  "name": "sol-tracker",
+  "authors": [
+    "Tobias Reich <tobias@electerious.com>"
+  ],
+  "description": "Transfer data to Tracker",
+  "main": "dist/sol-tracker.min.js",
+  "keywords": [
+    "sol",
+    "tracking",
+    "tracker",
+    "analytics",
+    "statistics"
+  ],
+  "ignore": [
+    "**/.*",
+    "build.js",
+    "package.json"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sonnh96/tracker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonnh96/tracker.git"
+  }
+}
